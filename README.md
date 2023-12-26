@@ -1,5 +1,7 @@
 # 资金流因子复现
 
+实现过程的代码已经上传到GitHub：https://github.com/JerryRocks241/CNIR_factor
+
 #### 研报复现共分为3部分：数据处理，因子数据计算，绩效检验
 
 代码文件中，data_process.py进行数据处理，factor.py进行因子数据计算，performance_test.py进行绩效检验
